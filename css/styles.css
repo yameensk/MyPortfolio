@@ -297,7 +297,7 @@ input {
     object-fit: cover;
     border-radius: 0.3rem;
     transform: translateY(3.125rem);
-    box-shadow: 0 0 27px rgb(96 96 96 / 34%);
+    box-shadow: 0 0 0px;
 }
 
 .home__name,
